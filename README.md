@@ -2,8 +2,12 @@
 
 ## Reference
 
-https://github.com/neo4j-contrib/mcp-neo4j
+[mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j)
 
-https://github.com/kuzudb/kuzu
+[kuzu-repo](https://github.com/kuzudb/kuzu)
 
-https://kuzudb.github.io/docs/
+[kuzu-docs](https://kuzudb.github.io/docs/)
+
+[python-sdk](https://github.com/modelcontextprotocol/python-sdk)
+
+[servers](https://github.com/modelcontextprotocol/servers)
